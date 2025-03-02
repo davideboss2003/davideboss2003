@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Ciaoo World I'm Davide" width="500">
+  <img src="logo.png" alt="Ciaoo World I'm Davide" width="400">
 </p>
 
 # 💫 About Me:
